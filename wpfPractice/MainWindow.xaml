@@ -17,9 +17,8 @@
     
     <Grid>
         <TextBox x:Name="textBoxInput" HorizontalAlignment="Left" Height="23" Margin="163,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label x:Name="labShow" Content="Label" HorizontalAlignment="Left" Margin="163,116,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labShow" Content="Daphnis" HorizontalAlignment="Left" Margin="163,116,0,0" VerticalAlignment="Top"/>
         <Button x:Name="btnShow" Content="Button" HorizontalAlignment="Left" Margin="236,122,0,0" VerticalAlignment="Top" Width="75" Click="btnShow_Click"/>
         <Button x:Name="btnSave" Content="Button" HorizontalAlignment="Left" Margin="303,50,0,0" VerticalAlignment="Top" Width="75" Click="btnSave_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="163,225,0,0" VerticalAlignment="Top" Width="75"/>
     </Grid>
 </Window>
