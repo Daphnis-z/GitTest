@@ -24,6 +24,7 @@ namespace wpfPractice
         public MainWindow()
         {
             InitializeComponent();
+	    MessageBox.Show("Hello World..");
         }
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
